@@ -1,0 +1,8 @@
+{
+  "name": "LUMINA",
+  "description": "A premium, distraction-free AI assistant powered by Gemini 3 Flash, designed for clarity, focus, and human-like intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
